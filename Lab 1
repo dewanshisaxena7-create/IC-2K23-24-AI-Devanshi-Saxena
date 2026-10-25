@@ -1,0 +1,31 @@
+
+# Lab 1: AI Environment Setup, Production Systems, and Water Jug Problem
+
+## 1. Aim / Problem Statement
+- Set up the Python environment for Artificial Intelligence laboratory work.
+- Understand production systems and their components.
+- Solve the Water Jug Problem using a state-space search approach.
+
+## 2. Algorithms
+- Environment Setup: Install and verify Python and required libraries.
+- Production System: Define initial state, rules, conditions, and goal state.
+- Water Jug Problem: Represent jug capacities and water quantities as states, apply valid operations, and reach the target quantity.
+
+## 3. Programs
+- `environment_setup.py`
+- `production_system.py`
+- `water_jug.py`
+
+## 4. Results / Output
+To be added after executing the programs.
+
+## 5. Performance Analysis
+Execution time and other relevant measurements will be added after testing.
+
+## 6. Screenshots / Graphs
+Add screenshots of program execution and relevant visualizations here.
+
+## 7. Learning Outcomes
+- Understand the AI programming environment.
+- Learn the components of a production system.
+- Understand state-space representation and search for problem-solving.
