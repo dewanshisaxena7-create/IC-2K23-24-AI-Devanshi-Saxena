@@ -1,38 +1,45 @@
 
 # Lab 5: Decision Tree Classifier and Model Evaluation
 
-## 1. Aim
-To implement a Decision Tree Classification model and evaluate its performance using various evaluation metrics.
+## Aim
+To implement a Decision Tree Classifier and evaluate its performance.
 
-## 2. Topics Covered
-1. Decision Tree Classifier
-2. Dataset Loading
-3. Training and Testing Data
-4. Model Training
-5. Model Prediction
-6. Model Evaluation
+## Dataset
+Iris Dataset from Scikit-learn.
 
-## 3. Programs
-To be added.
+## Libraries Used
+- Scikit-learn
+- Matplotlib
+- Seaborn
 
-## 4. Dataset
-To be added.
+## Programs
+1. decision_tree.py
+2. model_evaluation.py
 
-## 5. Results / Output
-To be documented after executing the program.
+## Methodology
+1. Load the Iris dataset.
+2. Split data into training and testing sets.
+3. Train the Decision Tree Classifier.
+4. Predict the test data.
+5. Evaluate the model using performance metrics.
 
-## 6. Performance Analysis
+## Performance Metrics
 - Accuracy
 - Precision
 - Recall
 - F1-Score
 - Confusion Matrix
+- Execution Time
 
-## 7. Screenshots / Graphs
-Add model visualization and evaluation screenshots.
+## Results
+Add actual results obtained after execution.
 
-## 8. Learning Outcomes
+## Screenshots
+- Decision Tree Visualization
+- Confusion Matrix
+
+## Learning Outcomes
 - Understand Decision Tree Classification.
-- Learn training and testing of datasets.
-- Evaluate machine learning models.
+- Train and test a machine learning model.
+- Evaluate classification performance.
 - Interpret confusion matrices and classification reports.
