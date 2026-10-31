@@ -1,43 +1,58 @@
 
-# Lab 6: PyTorch Basics, Linear Regression and Neural Network Fundamentals
+# Artificial Intelligence Laboratory
 
-## Aim
-To understand PyTorch fundamentals and implement Linear Regression and Neural Networks.
+**Student Name:** Devanshi Saxena
 
-## Libraries Used
-- PyTorch
+**Roll Number:** IC-2K23-24
+
+**Course:** BCA
+
+## About
+This repository contains practical implementations of Artificial Intelligence concepts and algorithms performed as part of the AI Laboratory.
+
+## Laboratory Experiments
+
+| Lab | Topics |
+|---|---|
+| Lab 1 | AI Environment Setup, Production Systems, Water Jug Problem |
+| Lab 2 | BFS, DFS, Hill Climbing, Best-First Search, A* |
+| Lab 3 | Data Preprocessing, EDA, NumPy, Pandas, Visualization |
+| Lab 4 | Knowledge Representation, Rule-Based Systems, Semantic Networks |
+| Lab 5 | Decision Tree Classifier, Model Evaluation |
+| Lab 6 | PyTorch Basics, Linear Regression, Neural Networks |
+| Lab 7 | Grad-CAM, FGSM, PCA, SVD, Mini Project |
+
+## Technologies Used
+- Python
+- NumPy
+- Pandas
 - Matplotlib
+- Seaborn
+- Scikit-learn
+- PyTorch
+- NetworkX
+- Google Colab
+- Git and GitHub
 
-## Programs
-1. pytorch_basics.py
-2. linear_regression.py
-3. neural_network.py
+## Repository Structure
 
-## Methodology
-- Create and manipulate tensors.
-- Define a Linear Regression model.
-- Train the model using Mean Squared Error.
-- Implement a feedforward Neural Network.
-- Apply ReLU and Sigmoid activation functions.
-- Train the network using an optimizer.
+- Lab1/
+- Lab2/
+- Lab3/
+- Lab4/
+- Lab5/
+- Lab6/
+- Lab7/
 
-## Performance Analysis
-- Training Loss
-- Mean Squared Error
-- Prediction Results
-- Execution Time
+Each laboratory folder contains source code, documentation, and relevant outputs.
 
-## Results / Output
-Add actual execution results here.
+## Learning Objectives
+- Understand fundamental Artificial Intelligence concepts.
+- Implement search algorithms.
+- Perform data preprocessing and visualization.
+- Explore knowledge representation techniques.
+- Build and evaluate machine learning models.
+- Understand neural networks and explainable AI.
 
-## Screenshots / Graphs
-- Tensor Operations
-- Linear Regression Loss Graph
-- Neural Network Predictions
-
-## Learning Outcomes
-- Understand PyTorch tensors.
-- Implement Linear Regression.
-- Understand neural network architecture.
-- Learn forward propagation and backpropagation.
-- Understand loss functions and optimizers.
+## Author
+Devanshi Saxena
