@@ -2,41 +2,62 @@
 # Lab 7: Explainable AI, Adversarial AI, PCA/SVD and Mini Project
 
 ## 1. Aim
-To understand Explainable AI techniques, Adversarial AI concepts, dimensionality reduction techniques and develop a mini project using Artificial Intelligence.
+To implement Explainable AI, study adversarial robustness, perform dimensionality reduction and develop a machine learning mini project.
 
-## 2. Topics Covered
+## 2. Programs
+1. grad_cam.py
+2. fgsm_concepts.py
+3. pca.py
+4. svd.py
+5. mini_project.py
 
-1. Explainable AI using Grad-CAM
-2. Adversarial AI using FGSM
-3. Principal Component Analysis (PCA)
-4. Singular Value Decomposition (SVD)
-5. Mini Project
+## 3. Libraries Used
+- PyTorch
+- Torchvision
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Pillow
 
-## 3. Programs
-To be added.
+## 4. Experiments
 
-## 4. Dataset
-To be added.
+### Experiment 1: Grad-CAM
+Visualize important image regions influencing CNN predictions.
 
-## 5. Results / Output
-To be documented after executing the programs.
+### Experiment 2: FGSM
+Study adversarial perturbations and model robustness.
 
-## 6. Performance Analysis
-- Model Performance
-- Dimensionality Reduction
+### Experiment 3: PCA
+Reduce dataset dimensions while preserving important information.
+
+### Experiment 4: SVD
+Perform matrix factorization and low-rank approximation.
+
+### Experiment 5: Mini Project
+Develop an Iris Flower Classification System using Decision Tree Classification.
+
+## 5. Performance Analysis
+- Classification Accuracy
+- Precision
+- Recall
+- F1-Score
 - Explained Variance
+- Model Robustness
 - Execution Time
 
+## 6. Results / Output
+Add actual experimental results after execution.
+
 ## 7. Screenshots / Graphs
-- Grad-CAM Visualization
+- Grad-CAM Heatmap
+- FGSM Evaluation Graph
 - PCA Visualization
-- SVD Results
-- Mini Project Output
+- SVD Visualization
+- Iris Confusion Matrix
 
 ## 8. Learning Outcomes
 - Understand Explainable AI.
-- Understand Grad-CAM visualizations.
-- Learn the concepts of adversarial examples and FGSM.
-- Implement PCA and SVD.
-- Understand dimensionality reduction.
-- Develop an AI-based mini project.
+- Study adversarial robustness.
+- Apply PCA and SVD.
+- Perform dimensionality reduction.
+- Build and evaluate a machine learning model.
