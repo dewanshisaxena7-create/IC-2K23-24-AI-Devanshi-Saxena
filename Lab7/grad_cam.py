@@ -92,4 +92,4 @@ def generate_grad_cam(image_path):
 
 
 if __name__ == "__main__":
-    generate_grad_cam("sample.jpg")
+    generate_grad_cam("cat.jpeg")
