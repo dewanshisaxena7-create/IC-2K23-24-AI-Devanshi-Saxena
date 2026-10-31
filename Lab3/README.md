@@ -2,34 +2,50 @@
 # Lab 3: Data Preprocessing, EDA, NumPy, Pandas and Visualization
 
 ## 1. Aim
-To understand and implement data preprocessing, Exploratory Data Analysis (EDA), numerical operations using NumPy, data manipulation using Pandas, and data visualization.
+To perform numerical operations, data manipulation, data preprocessing, exploratory data analysis and data visualization using Python libraries.
 
-## 2. Topics Covered
-1. NumPy Operations
-2. Pandas DataFrames
-3. Data Cleaning and Preprocessing
-4. Handling Missing Values
-5. Exploratory Data Analysis (EDA)
-6. Data Visualization
+## 2. Libraries Used
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
 
 ## 3. Programs
-To be added.
+1. numpy_operations.py
+2. pandas_operations.py
+3. data_preprocessing.py
+4. exploratory_data_analysis.py
+5. data_visualization.py
 
-## 4. Datasets
-To be added.
+## 4. Dataset
+Dataset: student_data.csv
 
-## 5. Results / Output
-To be documented after executing the programs.
+The dataset contains student names, ages, marks and attendance.
 
-## 6. Performance Analysis
-Include relevant statistical summaries and preprocessing results.
+## 5. Methodology
+- Create and manipulate NumPy arrays.
+- Perform DataFrame operations using Pandas.
+- Identify and handle missing values.
+- Remove duplicate records.
+- Perform descriptive statistical analysis.
+- Generate graphical visualizations.
 
-## 7. Screenshots / Graphs
-Add generated visualizations and output screenshots.
+## 6. Results / Output
+To be updated after executing all programs.
 
-## 8. Learning Outcomes
-- Understand NumPy arrays and operations.
+## 7. Performance Analysis
+Record execution time and relevant statistical results after testing.
+
+## 8. Screenshots / Graphs
+Generated graphs:
+- Student Marks Bar Chart
+- Marks Histogram
+- Attendance vs Marks Scatter Plot
+- Correlation Heatmap
+
+## 9. Learning Outcomes
+- Understand NumPy arrays.
 - Perform data manipulation using Pandas.
-- Handle missing and duplicate data.
+- Handle missing and duplicate values.
 - Perform Exploratory Data Analysis.
-- Visualize data using Python libraries.
+- Generate visualizations using Matplotlib and Seaborn.
