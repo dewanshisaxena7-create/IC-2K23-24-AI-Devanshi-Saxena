@@ -1,28 +1,35 @@
 
 # Lab 4: Knowledge Representation, Rule-Based Systems and Semantic Networks
 
-## 1. Aim
-To understand and implement knowledge representation techniques, rule-based systems and semantic networks in Artificial Intelligence.
+## Aim
+To implement knowledge representation, rule-based reasoning and semantic networks.
 
-## 2. Topics Covered
-1. Knowledge Representation
-2. Rule-Based Systems
-3. Semantic Networks
+## Programs
+1. knowledge_representation.py
+2. rule_based_system.py
+3. semantic_network.py
 
-## 3. Programs
-To be added.
+## Libraries Used
+- Python
+- NetworkX
+- Matplotlib
 
-## 4. Results / Output
-To be documented after executing the programs.
+## Algorithms / Methodology
+- Represent knowledge using facts and key-value pairs.
+- Apply IF-THEN rules using an inference mechanism.
+- Represent entities and relationships using a directed graph.
 
-## 5. Performance Analysis
-To be added wherever applicable.
+## Results / Output
+Document actual program outputs after execution.
 
-## 6. Screenshots / Graphs
-Add screenshots of program execution and semantic network visualization.
+## Performance Analysis
+Record execution time and relevant observations wherever applicable.
 
-## 7. Learning Outcomes
-- Understand knowledge representation techniques.
-- Implement rule-based reasoning.
-- Represent relationships using semantic networks.
-- Understand facts, rules and inference mechanisms.
+## Screenshots / Graphs
+Include the generated semantic network visualization and program outputs.
+
+## Learning Outcomes
+- Understand knowledge representation.
+- Implement rule-based inference.
+- Understand semantic networks and relationships.
+- Visualize knowledge using directed graphs.
