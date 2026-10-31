@@ -39,7 +39,10 @@ def visualize_data():
     plt.title("Attendance vs Marks")
     plt.xlabel("Attendance")
     plt.ylabel("Marks")
-    plt.savefig("attendance_vs_marks.png")
+  plt.savefig("outputs/student_marks.png")
+plt.savefig("outputs/marks_histogram.png")
+plt.savefig("outputs/attendance_vs_marks.png")
+plt.savefig("outputs/correlation_heatmap.png")
     plt.show()
 
     # Correlation Heatmap
